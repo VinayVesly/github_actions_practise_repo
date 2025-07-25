@@ -7,6 +7,4 @@ jobs:
       - name: printing greeting
         run: echo "Hello Good Morning"
       - name: Good bye!
-        run: |
-            echo "Good Bye Team"
-            echo "Will catch you later!"
+        run: echo "Good Bye!"
