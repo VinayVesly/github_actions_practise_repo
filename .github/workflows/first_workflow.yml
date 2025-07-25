@@ -8,5 +8,5 @@ jobs:
         run: echo "Hello Good Morning"
       - name: Good bye!
         run: |
-        echo "Good Bye Team"
-        echo "Will catch you later!"
+            echo "Good Bye Team"
+            echo "Will catch you later!"
